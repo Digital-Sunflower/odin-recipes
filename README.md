@@ -1,0 +1,1 @@
+This is my Odin Recipe Project to practice setting up a repository in GitHub and working with Git to develop my webpages and push them to GitHub
